@@ -1,0 +1,21 @@
+salon red
+1.matine 0 koltuk dolu
+2.matine 2 koltuk dolu
+3.matine 0 koltuk dolu
+4.matine 0 koltuk dolu
+5.matine 1 koltuk dolu
+
+salon green
+1.matine 0 koltuk dolu
+2.matine 0 koltuk dolu
+3.matine 0 koltuk dolu
+4.matine 1 koltuk dolu
+5.matine 0 koltuk dolu
+
+salon blue
+1.matine 0 koltuk dolu
+2.matine 1 koltuk dolu
+3.matine 0 koltuk dolu
+4.matine 0 koltuk dolu
+5.matine 1 koltuk dolu
+
